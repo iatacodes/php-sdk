@@ -4,7 +4,7 @@ PHP-SDK for IataCodes.org
 Example:
 ```
 include 'IataCodes.php';
-$ic = new IataCodes();
+$ic = new IataCodes('YOUR-API-KEY', '4');
 $result = $ic->api('stats');
 print_r( $result['response']);
 
