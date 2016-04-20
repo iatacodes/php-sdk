@@ -1,5 +1,5 @@
-# iatacodes-php
-PHP Plugin for IataCodes.org
+# php-sdk
+PHP SDK for IataCodes.org
 
 Example:
 ```
