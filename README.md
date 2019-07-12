@@ -1,5 +1,5 @@
 # php-sdk
-PHP SDK for IataCodes.org
+PHP SDK for https://airlabs.co
 
 Example:
 ```
